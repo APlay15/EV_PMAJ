@@ -1,3 +1,6 @@
 Paredes Mangui
 Anthony Javier 
 0987654321
+Lneguajes que maneja: Java Php C# C++ 
+Base de datos SQLServer Mysql Maria db 
+
